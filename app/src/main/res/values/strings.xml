@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">latihanintentanpadata</string>
+    <string name="ini_move_activity">ini move activity</string>
+    <string name="move_activity">Move Activity</string>
+    <string name="ini_pindah_activity_dua">Ini pindah Activity Dua</string>
+    <string name="move_dua">Move Dua</string>
+    <string name="dial_number">Dial Number</string>
+    <string name="web_view">Web View</string>
+</resources>
